@@ -1,4 +1,4 @@
-package streams_handson.filter;
+package filter;
 
 import java.util.Arrays;
 import java.util.List;
